@@ -4,7 +4,7 @@ Paper URL: https://doi.org/10.1038/s41524-025-01522-8
 
 Cite the following article to refer to this work.
 ```BibTeX
-@article{wo2023,
+@article{kowt2025,
   title = {Physics-informed {Bayesian} optimization suitable for extrapolation of materials growth},
   author = {W. Kobayashi and Takuma Otsuka and Yuki K. Wakabayashi and G. Tei},
   journal = {npj Computational Materials},
